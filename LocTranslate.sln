@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocTranslate", "LocTranslate\LocTranslate.csproj", "{72C4B3C3-707E-4DF0-B248-3A3D11D700FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocTranslateLibrary", "LocTranslateLibrary\LocTranslateLibrary.csproj", "{A01E33A4-DF7C-4CFB-980A-FD72E85B835D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C4B3C3-707E-4DF0-B248-3A3D11D700FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C4B3C3-707E-4DF0-B248-3A3D11D700FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C4B3C3-707E-4DF0-B248-3A3D11D700FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C4B3C3-707E-4DF0-B248-3A3D11D700FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01E33A4-DF7C-4CFB-980A-FD72E85B835D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01E33A4-DF7C-4CFB-980A-FD72E85B835D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01E33A4-DF7C-4CFB-980A-FD72E85B835D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01E33A4-DF7C-4CFB-980A-FD72E85B835D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
