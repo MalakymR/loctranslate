@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿
 namespace LocTranslate
 {
     //[System.Windows.Markup.DictionaryKeyProperty("Key")] this doesn't work so use "classic" x:Key property
